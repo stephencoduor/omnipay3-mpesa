@@ -81,7 +81,7 @@ PSRs you support to avoid any confusion with users and contributors.
 Instal the gateway using require. Require the `league/omnipay` base package and this gateway.
 
 ``` bash
-$ composer require league/omnipay wasksofts/omnipay-mpesa -
+$ composer require league/omnipay stephencoduor/omnipay3-mpesa
 ```
 
 ## Usage
@@ -114,14 +114,6 @@ Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recen
 ``` bash
 $ composer test
 ```
-
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
-## Security
-
-If you discover any security related issues, please email mukamanusteven@gmail.com instead of using the issue tracker.
 
 ## Credits
 

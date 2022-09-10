@@ -7,13 +7,13 @@
         "mpesa",
         "lipa na mpesa"
     ],
-    "homepage": "https://github.com/stephencoduor/omnipay-mpesa",
+    "homepage": "https://github.com/stephencoduor/omnipay3-mpesa",
     "license": "MIT",
     "authors": [
         {
             "name": "Stephen Oduor",
             "email": "stephencoduor@gmail.com",
-            "homepage": "https://github.com/stephencoduor/omnipay-mpesa"
+            "homepage": "https://github.com/stephencoduor/omnipay3-mpesa"
         }
     ],
     "autoload": {
